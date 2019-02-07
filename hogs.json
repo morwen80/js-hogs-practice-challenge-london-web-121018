@@ -73,15 +73,6 @@
       "image": "./hog-imgs/truffleshuffle.jpg"
     },
     {
-      "id": 8,
-      "name": "Bay of Pigs",
-      "specialty": "Hamphlet Distribution",
-      "greased": false,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 2.8,
-      "highest medal achieved": "diamond",
-      "image": "./hog-imgs/bay_of_pigs.jpg"
-    },
-    {
       "id": 9,
       "name": "The Prosciutto Concern",
       "specialty": "truffle finder",
@@ -116,6 +107,33 @@
       "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 4.1,
       "highest medal achieved": "wood",
       "image": "./hog-imgs/augustus_gloop.jpg"
+    },
+    {
+      "name": "Hufflepuff",
+      "specialty": "Booty Shake",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "0.1",
+      "highest medal achieved": "gold",
+      "image": "https://fanfest.com/wp-content/uploads/2017/04/hank4-e1491338482902.png",
+      "id": 13
+    },
+    {
+      "name": "Hufflepuff",
+      "specialty": "Booty Shake",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "0.1",
+      "highest medal achieved": "gold",
+      "image": "https://fanfest.com/wp-content/uploads/2017/04/hank4-e1491338482902.png",
+      "id": 14
+    },
+    {
+      "name": "Hufflepuff",
+      "specialty": "Booty Shake",
+      "greased": true,
+      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": "0.1",
+      "highest medal achieved": "gold",
+      "image": "https://fanfest.com/wp-content/uploads/2017/04/hank4-e1491338482902.png",
+      "id": 15
     }
   ]
 }
